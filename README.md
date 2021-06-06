@@ -8,10 +8,10 @@ A server is up on port number 3000 and a login page open via your default web br
 >> username - test
 
 >> password - test
-4) The login is verified. If you get a alert of error code 400 - Your id password combination is wrong. If you get a error of 401 your jwt token is wrong.
-5) The form page opens on successful login. Fill the form with all the credentials and submit.
-6) A reflection of the submitted form is shown below and corresponding data is updated in the database.
-7) You can view and delete records from the dashboard as well.
+3) The login is verified. If you get a alert of error code 400 - Your id password combination is wrong. If you get a error of 401 your jwt token is wrong.
+4) The form page opens on successful login. Fill the form with all the credentials and submit.
+5) A reflection of the submitted form is shown below and corresponding data is updated in the database.
+6) You can view and delete records from the dashboard as well.
 
 Have a good day. 
 
