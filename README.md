@@ -5,7 +5,8 @@
 A server is up on port number 3000 and a login page open via your default web browser. A login page loads.
 
 2) Use the username and password given below for login. You can also add new login credentials via your mongodb compass.
->> username - test
+>> username - test;
+
 >> password - test
 4) The login is verified. If you get a alert of error code 400 - Your id password combination is wrong. If you get a error of 401 your jwt token is wrong.
 5) The form page opens on successful login. Fill the form with all the credentials and submit.
